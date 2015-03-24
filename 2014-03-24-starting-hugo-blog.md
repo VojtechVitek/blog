@@ -1,12 +1,14 @@
 ---
-title: "Testing post"
+title: "Setting up a new Hugo blog"
 date: "2015-03-24"
 description: "More description to my post"
 categories: 
     - "programming"
 tags:
     - "golang"
-    - "http"
+    - "blog"
+    - "static"
+    - "hugo"
 ---
 
 ## First Heading

@@ -3,7 +3,8 @@ contentdir: "content"
 layoutdir: "layouts"
 publishdir: "public"
 indexes:
-  category: "categories"
-baseurl: "http://spencerlyon2.github.io/hugo_gh_blog"
-title: "Hugo Blog Template for GitHub Pages"
+  category: "programming"
+baseurl: "http://vojtechvitek.github.io/blog"
+title: "Vojtech Vitek - blog"
+canonifyurls: true
 ...

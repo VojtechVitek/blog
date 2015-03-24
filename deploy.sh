@@ -1,5 +1,10 @@
 #!/bin/bash
 
+echo -e "\033[0;32mPulling latest content and themes...\033[0m"
+
+git submodule update --init --recursive
+git submodule update --recursive
+
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Build the project.

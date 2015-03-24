@@ -1,6 +1,0 @@
-[submodule "themes"]
-	path = themes
-	url = git@github.com:spf13/hugoThemes.git
-[submodule "content/posts"]
-	path = content/posts
-	url = git@github.com:VojtechVitek/blog.git
